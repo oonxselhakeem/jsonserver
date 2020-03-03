@@ -1,37 +1,14 @@
-     {
-
-            "id": 1,
-
-            "email": "michael.lawson@demo.io",
-
-            "firstName": "Michael",
-
-         
-        },
-
-        {
-
-            "id": 2,
-
-            "email": "lindsay.ferguson@demo.io",
-
-            "firstName": "Lindsay",
-
-         
-        },
-
-        {
-
-            "id": 3,
-
-            "email": "tobias.funke@demo.io",
-
-            "firstName": "Tobias",
-
-         
-        }
-
-        
-        
-
-       
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
