@@ -4,10 +4,7 @@
 
             "email": "michael.lawson@demo.io",
 
-            "firstName": "Michael",
-
-            "lastName": "Lawson",
-
+            
            
         },
 
@@ -17,39 +14,9 @@
 
             "email": "lindsay.ferguson@demo.io",
 
-            "firstName": "Lindsay",
-
-            "lastName": "Ferguson",
-
-           
-        },
-
-        {
-
-            "id": 3,
-
-            "email": "tobias.funke@demo.io",
-
-            "firstName": "Tobias",
-
-            "lastName": "Funke",
-
-           
-        },
-
-        {
-
-            "id": 4,
-
-            "email": "byron.fields@demo.io",
-
-            "firstName": "Byron",
-
-            "lastName": "Fields",
-
+            
            
         }
-
         
 
         ]
