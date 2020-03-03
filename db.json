@@ -1,11 +1,12 @@
-{[{
+     [{
 
             "id": 1,
 
             "email": "michael.lawson@demo.io",
 
-            
-           
+            "firstName": "Michael",
+
+         
         },
 
         {
@@ -14,10 +15,23 @@
 
             "email": "lindsay.ferguson@demo.io",
 
-            
-           
+            "firstName": "Lindsay",
+
+         
+        },
+
+        {
+
+            "id": 3,
+
+            "email": "tobias.funke@demo.io",
+
+            "firstName": "Tobias",
+
+         
         }
+
+        
         
 
         ]
-}
