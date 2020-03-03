@@ -2,11 +2,11 @@
 
             "id": 1,
 
-            "email": "elhakeem.lukman@gmail.com",
+            "email": "michael.lawson@demo.io",
 
-            "firstName": "Elhakeem",
+            "firstName": "Michael",
 
-            "lastName": "Lukman",
+            "lastName": "Lawson",
 
             "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
 
@@ -66,4 +66,22 @@
 
             "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg"
 
-        }]
+        },
+
+        {
+
+            "id": 6,
+
+            "email": "rachel.howell@demo.io",
+
+            "firstName": "Rachel",
+
+            "lastName": "Howell",
+
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
+
+        }
+
+        
+
+        ]
